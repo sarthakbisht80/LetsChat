@@ -1,4 +1,4 @@
-<h1 align="center">✨ Streamify -Connect Seamlessly ✨</h1>
+<h1 align="center">✨ LetsChat -Connect Seamlessly ✨</h1>
 <p align="center">A full-stack, real-time language exchange platform enabling users to chat, video call, and collaborate with ease — across themes, languages, and devices.</p>
 
 <p align="center">
