@@ -1,5 +1,5 @@
 <h1 align="center">✨ LetsChat -Connect Seamlessly ✨</h1>
-<p align="center">A full-stack, real-time language exchange platform enabling users to chat, video call, and collaborate with ease — across themes, languages, and devices.</p>
+<p align="center">A full-stack, real-time communication   platform enabling users to chat, video call, and collaborate with ease — across themes, languages, and devices.</p>
 
 <p align="center">
   <img src="/Streamify/frontend/public/Signuppafge.png" alt="SVG Screenshot" height =" 400 "width="400" />
