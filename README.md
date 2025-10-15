@@ -27,7 +27,7 @@
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Authentication:** JWT  
 - **Third-Party:** Stream API  
-- **Deployment:** Vercel (frontend), Render/Railway (backend)
+- **Deployment:** Render
 
 
 
