@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="frontend/public/SignupPafge.png" alt="SVG Screenshot" height="500"width="900" />
+  <img src="Streamify-app/frontend/public/SignupPafge.png" alt="SVG Screenshot" height="500"width="900" />
 </p>
 
 
